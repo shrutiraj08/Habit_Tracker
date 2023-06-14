@@ -63,7 +63,7 @@ flutter:
 
   - assets/images/HabitsPageBackground.png
   - assets/images/MainBackground.png
-  - assets/images/ProgressPageBackground.png
+  - assets/images/progressPageBackground.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 

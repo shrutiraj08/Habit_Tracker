@@ -84,7 +84,7 @@ class _HomePageState extends State<HomePage> {
           child: ClipRRect(
             borderRadius: BorderRadius.circular(30),
             child: Stack(children: [
-              Image.asset('assets/MainBackground.png'),
+              Image.asset('assets/images/MainBackground.png'),
               Padding(
                 padding: EdgeInsets.fromLTRB(20, 140, 0, 20),
                 child: Align(

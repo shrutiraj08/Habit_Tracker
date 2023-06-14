@@ -20,7 +20,7 @@ class _ProgressPageState extends State<ProgressPage> {
           child: ClipRRect(
             borderRadius: BorderRadius.circular(30),
             child: Stack(children: [
-              Image.asset('assets/progressPageBackground.png'),
+              Image.asset('assets/images/progressPageBackground.png'),
               Padding(
                 padding: EdgeInsets.fromLTRB(20, 140, 0, 20),
                 child: Align(
